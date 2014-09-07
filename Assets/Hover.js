@@ -11,7 +11,3 @@ function Update () {
 	counter += Time.deltaTime;
 	transform.position.y = y + 0.2 * Mathf.Sin(counter);
 }
-
-function OnTriggerEnter (other : Collider) {
-	Destroy(gameObject);
-}

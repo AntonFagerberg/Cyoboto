@@ -47,8 +47,9 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\CityBuilder.js" />
-     <Compile Include="Assets\Dialog.js" />
      <Compile Include="Assets\Hover.js" />
+     <Compile Include="Assets\IntroPlayer.js" />
+     <Compile Include="Assets\Rotate.js" />
      <Compile Include="Assets\Shard.js" />
      <Compile Include="Assets\bob.js" />
  <Reference Include="UnityEngine.UI">
